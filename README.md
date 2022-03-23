@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React - React Native - Dev Web**
 
-- ⚡ Fun fact **I like to play the guitar and rock**
+- ⚡ Fun fact **I like to play the guitar and rock !!!🎸 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
