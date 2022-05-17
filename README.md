@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Neurolitiks](https://adoring-ride-f0d19f.netlify.app/#)
 
-- 🌱 I’m currently learning **Unity / Competitive Programming**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 💬 Ask me about **React - React Native - Dev Web**
 
