@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0g3r-sh&label=Profile%20views&color=0e75b6&style=flat" alt="r0g3r-sh" /> </p>
 
-- 🔭 I’m currently working on [Neurolitiks](https://adoring-ride-f0d19f.netlify.app/#)
+- 🔭 I’m currently working on [Pupura](https://purpura.ai/)
 
 - 🌱 I’m currently learning **Competitive Programming**
 
