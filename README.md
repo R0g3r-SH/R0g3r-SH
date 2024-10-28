@@ -18,17 +18,8 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <!-- Add the icons as before, this is just a shortened representation -->
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <!-- Add additional icons here -->
-</p>
-
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0g3r-SH&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0g3r-SH&layout=compact&theme=dark&hide=Jupyter%20Notebook" alt="Top Languages" />
 </div>
 
 <div align="center">
