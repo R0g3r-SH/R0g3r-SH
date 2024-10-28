@@ -8,4 +8,33 @@
 
 ⚡ Fun fact: When I’m not coding, you might find me jamming out on my guitar, living for that rock-and-roll vibe 🎸🤘!
 
-<h3 align="left">Let's Connect!</h3> <p align="left"> <a href="https://www.linkedin.com/in/roger-sari%C3%B1ana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roger sariñana" height="30" width="40" /></a> <a href="https://codeforces.com/profile/roger_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roger_sh" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/></a> <!-- Add remaining icons here with the same pattern --> </p> <div> <h3 align="center">GitHub Stats & Streak</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0g3r-SH" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=R0g3r-SH&show_icons=true&locale=en" alt="R0g3r-SH" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0g3r-SH" alt="R0g3r-SH" /> </p> </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/roger-sari%C3%B1ana/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Roger Sariñana" height="30" width="40" />
+    </a>
+    <a href="https://codeforces.com/profile/roger_sh" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roger_sh" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <!-- Add the icons as before, this is just a shortened representation -->
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    </a>
+    <!-- Add additional icons here -->
+</p>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0g3r-SH&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=R0g3r-SH&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0g3r-SH&theme=dark" alt="GitHub Streak" />
+</div>
