@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0g3r-SH&layout=compact&theme=dark&hide=Jupyter%20Notebook" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0g3r-SH&layout=compact&theme=dark&hide=Jupyter%20Notebook,SCSS,CSS,HTML,Shell" alt="Top Languages" />
 </div>
 
 <div align="center">
