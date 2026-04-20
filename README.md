@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%40+Banorte+building+RAG+systems;LLMs+%7C+Prompt+Engineering+%7C+Vector+DBs;React+%7C+FastAPI+%7C+Django+%7C+Angular;CS+%40+ITESM+%E2%80%94+GPA+94%2F100+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%40++building+RAG+systems;LLMs+%7C+Prompt+Engineering+%7C+Vector+DBs;React+%7C+FastAPI+%7C+Django+%7C+Angular;CS+%40+ITESM+%E2%80%94+GPA+94%2F100+%F0%9F%8E%93" />
 </div>
 
 <br/>
@@ -100,11 +100,6 @@
 <a href="https://rogerzsh.com">
   <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00d4ff" />
 </a>
-&nbsp;
-<a href="https://codeforces.com/profile/roger_sh">
-  <img src="https://img.shields.io/badge/Codeforces-0d0d0d?style=for-the-badge&logo=codeforces&logoColor=00d4ff" />
-</a>
-
 </div>
 
 <br/>
